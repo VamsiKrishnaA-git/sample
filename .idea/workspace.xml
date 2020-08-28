@@ -53,6 +53,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="500" height="400" key="SwitcherDM" timestamp="1598656242584">
